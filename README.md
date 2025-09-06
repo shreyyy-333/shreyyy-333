@@ -31,10 +31,10 @@
 
 ---
 
-<!-- ✨ Second 3D Animation -->
+<!-- ✨ Futuristic Neon Coding Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/developer.gif" 
-       alt="Developer 3D" width="420" 
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coding-neon.gif" 
+       alt="Futuristic Neon Coding" width="420" 
        style="border-radius:14px;box-shadow:0 6px 20px rgba(0,0,0,0.25)"/>
 </p>
 
