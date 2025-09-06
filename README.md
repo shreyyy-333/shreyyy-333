@@ -6,9 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1ABC9C&center=true&vCenter=true&width=680&lines=💻+Full+Stack+Developer+%7C+MERN+Stack;📘+DSA+Enthusiast+%7C+Java+Coder;☁️+Cloud+%26+Open+Source+Explorer;⚡+Always+Learning+New+Things" />
 </p>
 
-<!-- 🌟 3D Hero Animation -->
+<!-- 🌟 3D Hero Animation (Back to Work / 3D Environment) -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/gifs/back-to-work.gif" alt="Back to Work 3D Environment" width="500" style="border-radius:14px;box-shadow:0 6px 20px rgba(0,0,0,0.25)"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/back-to-work.gif" 
+       alt="Back to Work 3D Environment" width="500" 
+       style="border-radius:14px;box-shadow:0 6px 20px rgba(0,0,0,0.25)"/>
 </p>
 
 ---
@@ -31,7 +33,9 @@
 
 <!-- ✨ Second 3D Animation -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/gifs/developer.gif" alt="Developer 3D" width="420" style="border-radius:14px;box-shadow:0 6px 20px rgba(0,0,0,0.25)"/>
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/developer.gif" 
+       alt="Developer 3D" width="420" 
+       style="border-radius:14px;box-shadow:0 6px 20px rgba(0,0,0,0.25)"/>
 </p>
 
 ### 🌐 Connect with me  
