@@ -30,6 +30,18 @@
 
 ---
 
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyyy-333&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyyy-333&theme=tokyonight" alt="GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyyy-333&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+---
+
 <!-- ✨ Futuristic Neon Coding Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coding-neon.gif" 
