@@ -47,10 +47,3 @@
 </p>
 
 <h3 align="center">🔥 Always curious, always building! 🚀✨</h3>
-
----
-
-<!-- 🐍 GitHub Contribution Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shreyyy-333/shreyyy-333/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
